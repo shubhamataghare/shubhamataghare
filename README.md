@@ -4,7 +4,7 @@
 - 🔭 Currently exploring advanced techniques in Power BI and staying updated with the latest trends in data analytics.
 - 🚀 Whether it's optimizing business processes, identifying trends, or uncovering hidden opportunities, I thrive on turning data into actionable intelligence.
 - 💼 As a seasoned data analyst, I've honed my skills in data visualization, dashboard development, and data modeling to help businesses make informed decisions and drive growth.
-- 🔍 With a keen eye for detail and a passion for data-driven decision-making, I specialize in harnessing the power of Power BI to extract valuable insights from complex datasets.
+- 🔍 With a keen eye for detail and a passion for data-driven decision-making, I specialize in harnessing the power of Data to extract valuable insights from complex datasets.
 - 📫 Let's connect! Feel free to reach out to me on LinkedIn to discuss all things data and analytics.
 
 <!---
