@@ -1,5 +1,7 @@
-- 👋 Hello, I’m Shubham Mataghare
-- 📊 Data Analyst | Power BI Developer | Transforming raw data into actionable insights.
+- 👋 Hello,Welcome to my GitHub playground, where code meets creativity and collaboration. Let's build something amazing together!"
+-  I’m Shubham Mataghare
+- 📊 Power BI Data Analyst || Power BI Developer || Business Intelligence Analyst
+- Transforming raw or unprocessed data into actionable and meaningful insights.
 - 👀 I’m interested in Learning Power BI for Data Analysis & Visualization and Business Intelligence
 - 🔭 Currently exploring advanced techniques in Power BI and staying updated with the latest trends in data analytics.
 - 🚀 Whether it's optimizing business processes, identifying trends, or uncovering hidden opportunities, I thrive on turning data into actionable intelligence.
